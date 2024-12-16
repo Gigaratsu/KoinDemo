@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KoinDemonstration</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="display_name">demo_user</string>
+    <string name="first_name">demo_name</string>
+    <string name="user_id">demo_id</string>
+
+    <string name="input_header">XML init</string>
+    <string name="profile_uuid_content">%1$d</string>
+    <string name="profile_default">User information is not set. Please return to the Home page.</string>
+</resources>
